@@ -1,0 +1,18 @@
+p {
+    background-color:rgb(255, 104, 104);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#dois {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler, #quatro {
+    font-size: 24px;
+}
+
+#quatro {
+    background-color: rgb(0, 255, 0);
+    font-weight: bold;
+}
